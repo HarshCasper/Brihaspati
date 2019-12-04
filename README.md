@@ -16,3 +16,4 @@ Brihaspati is a collection of various Jupyter Notebooks that have been developed
 - Decision Tree Classifier on Bill Authentication Dataset
 - Decision Tree Classifier on Breast Cancer Dataset
 - Logistic Regression on Social Networks Ads Dataset
+- Logistic Regression on Iris Dataset
