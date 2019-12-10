@@ -18,3 +18,4 @@ Brihaspati is a collection of various Jupyter Notebooks that have been developed
 - Logistic Regression on Social Networks Ads Dataset
 - Logistic Regression on Iris Dataset
 - Naive Bayes Classifier on Heart Disease Dataset
+- K-Means Clustering on Loan Dataset
