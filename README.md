@@ -19,9 +19,9 @@ These Machine Learning Algorithms have been implemented on various Datasets from
 | Cat and Dog Classifier  | [Kaggle Dataset](https://www.kaggle.com/c/dogs-vs-cats)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Cat%20and%20Dog%20Classifer)  |
 | Chatbot using LSTM  |   | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Chatbot%20using%20LSTM)  |
 | Decision Tree  | [Dataset](https://github.com/HarshCasper/Brihaspati/tree/master/Decision%20Tree)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Decision%20Tree)   |
-| Fake News Classification  |   | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Fake%20News%20Analysis)  |
-|   |   |   |
-|   |   |   |
+| Fake News Classification  | [Dataset](https://www.kaggle.com/c/fake-news/data)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Fake%20News%20Analysis)  |
+| Gender Prediction  |   | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Gender%20Prediction%20using%20Natural%20Language%20Processing)  |
+| Hindi Character Recognition  | [Dataset](https://www.kaggle.com/rishianand/devanagari-character-set)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Hindi%20Character%20Recognition)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
