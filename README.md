@@ -10,6 +10,20 @@
 This is a Collection of various Machine Learning Algorithms and Experiments that have been implemeneted from my side by following various Tutorials, Article Blogs and more. 
 These Machine Learning Algorithms have been implemented on various Datasets from [Kaggle](https://www.kaggle.com/), [UCI](https://archive.ics.uci.edu/) and more. 
 
+## ✔ Resources 
+
+- [Machine Learning Yearning by Andrew Ng](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/AI_Andrew_Ng_Machine_Learning_Yearning.pdf)
+- [Hands-on Machine Learning with Scikit-Learn and Tensorflow](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+- [Linear Algebra for Machine Learning](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Linear%20Algebra%20for%20Machine%20Learning.pdf)
+- [Machine Learning A-Z](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20A-Z.pdf)
+- [Machine Learning Cheatsheet](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20Cheatsheet.pdf)
+- [Machine Learning Projects in Python](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20Projects%20in%20Python.pdf)
+- [Machine Learning for Dummies](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20for%20dummies.pdf)
+- [Machine Learning in Action](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20in%20Action_%20A%20P%20-%20Alan%20T.%20Norman.pdf)
+- [Machine Learning with Python Cookbook](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine%20Learning%20with%20Python%20Cookbook%20(en).pdf)
+- [Machine Learning Mastery](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Machine_Learning_Mastery_Jason_Brownlee.pdf)
+- [Veracity of Big Data Machine Learning and Other..](https://github.com/HarshCasper/Brihaspati/blob/master/Resources/Veracity%20of%20Big%20Data%20Machine%20Learning%20and%20Other.pdf)
+
 ## 💥 Notebooks and Datasets 
 
 | Name  | Dataset  |  Notebook |
