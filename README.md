@@ -22,14 +22,17 @@ These Machine Learning Algorithms have been implemented on various Datasets from
 | Fake News Classification  | [Dataset](https://www.kaggle.com/c/fake-news/data)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Fake%20News%20Analysis)  |
 | Gender Prediction  |   | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Gender%20Prediction%20using%20Natural%20Language%20Processing)  |
 | Hindi Character Recognition  | [Dataset](https://www.kaggle.com/rishianand/devanagari-character-set)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Hindi%20Character%20Recognition)  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Iris Flower Prediction  | [Dataset](https://archive.ics.uci.edu/ml/datasets/iris) | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Iris)  |
+| K-Means Clustering  | [Dataset](https://github.com/HarshCasper/Brihaspati/blob/master/K-Means%20Clustering/clustering.csv)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/K-Means%20Clustering)  |
+| Linear Regression I  | [Dataset](https://www.kaggle.com/c/ames-housing-data) | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Linear%20Regression/Linear%20Regression%20on%20AmesHousing%20Dataset.ipynb)  |
+| Linear Regression II  | [Dataset](https://www.kaggle.com/jemishdonda/headbrain)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Linear%20Regression/Linear%20Regression%20on%20Headbrain%20Dataset.ipynb)  |
+| Linear Regression III  | [Dataset](https://github.com/HarshCasper/Brihaspati/blob/master/Linear%20Regression/students.csv)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Linear%20Regression/Multiple%20Linear%20Regression%20on%20Students%20Dataset.ipynb)  |
+| Logistic Regression  | [Dataset](https://www.kaggle.com/rakeshrau/social-network-ads)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Logistic%20Regression/Logistic%20Regression%20on%20Social%20Network%20Ads%20Dataset.ipynb)  |
+| MNIST Fashion Dataset  | [Dataset](https://www.kaggle.com/zalando-research/fashionmnist)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/MNIST%20Fashion/MNIST_Fashion.ipynb)  |
+| Naive Bayes  | [Dataset](https://github.com/HarshCasper/Brihaspati/blob/master/Naive%20Bayes%20Classifier/train.csv)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Naive%20Bayes%20Classifier/Naive%20Bayes.ipynb)  |
+| Reinforcement Learning  |   | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Reinforcement%20Learning)  |
+| Wines Dataset  | [Dataset](https://www.kaggle.com/rajyellow46/wine-quality)  | [Notebook](https://github.com/HarshCasper/Brihaspati/tree/master/Wines%20Dataset)  |
+| Time Series Analysis  | [Dataset](https://github.com/HarshCasper/Brihaspati/blob/master/Time%20Series%20Analysis/sales_data.csv)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Time%20Series%20Analysis/Time%20Series%20Analysis.ipynb)  |
+| Spam Detection  | [Dataset](https://github.com/HarshCasper/Brihaspati/blob/master/Spam-Ham%20Classification%20Pipeline/SMSSpamCollection)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Spam-Ham%20Classification%20Pipeline/Spam-Ham%20Classification%20Pipeline.ipynb)  |
+| IMDB Sentiment Classification  | [Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Sentiment%20Analysis/IMDB_Sentiment_Analysis.ipynb)  |
+| Satellite Image Analysis  |  | [Notebook](https://github.com/HarshCasper/Brihaspati/blob/master/Satellite%20Image%20Analysis/Satellite%20Imaging%20Analysis.ipynb)  |
